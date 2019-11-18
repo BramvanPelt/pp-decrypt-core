@@ -1,3 +1,5 @@
+WARNING, this code is no longer maintained. Please check out https://github.com/BramvanPelt/PPDecryption for the latest code and updates.
+
 ABSTRACT
 This repository contains two projects, the PP-Decrypt library and the PP-Decrypt example package. 
 The goal of these project is to give an example of how the decryption of encrypted identifiers takes 
